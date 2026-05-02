@@ -20,7 +20,7 @@ This is where I’ll be documenting projects, experiments, and things I’m buil
 
 ### Currently
 
-- Working on an AI-supported learning management system with Royal Jordanian
+- Working on an AI-supported learning management system with Royal Jordanian Airlines
 - Preparing for a summer internship on an AI-assisted coding platform for kids
 - Improving my backend, TypeScript, and AI product engineering skills
 
