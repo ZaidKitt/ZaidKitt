@@ -29,4 +29,4 @@ This is where I’ll be documenting projects, experiments, and things I’m buil
 ### Reach me
 
 - LinkedIn: [Zaid Alsaleh](https://www.linkedin.com/in/zaid-alsaleh/)
-- Email: zaidkittb@hotmail.com
+- Email: zaidkittbs@hotmail.com
