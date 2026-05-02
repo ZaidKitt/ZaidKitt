@@ -15,7 +15,6 @@ This is where I’ll be documenting projects, experiments, and things I’m buil
 - Node.js, Express, PostgreSQL
 - React, Next.js, Tailwind CSS
 - RAG systems, LangChain.js, pgvector
-- Git, GitHub, Vercel, Railway
 
 ---
 
